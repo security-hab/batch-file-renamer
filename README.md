@@ -15,7 +15,7 @@
 Clone the repository:
 ```bash
 git clone https://github.com/security-hab/batch-file-renamer.git
-cd BatchFileRenamer
+cd batch-file-renamer
 ```
 
 ## Usage 🚀
@@ -26,7 +26,7 @@ cd BatchFileRenamer
 
 2. Run the script:
    ```bash
-   python rename_files.py
+   python main.py
    ```
 
 ## Example 🖌
